@@ -15,3 +15,6 @@ Object.prototype.mdajbullah = function(){
     console.log(`this is prototype function`)
 }
 console.log(myHero.mdajbullah());
+
+
+
